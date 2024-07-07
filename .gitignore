@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/*
+.idea/*
+*.suo
+*.bin
+/YMCL.Main/Public/Bin/YMCL.Update.Helper.win.exe
